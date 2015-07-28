@@ -1,0 +1,63 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - AMTagListView (0.6.3)
+  - CAAnimationBlocks (0.0.1)
+  - EDStarRating (1.1)
+  - Firebase (2.3.1)
+  - IOSLinkedInAPI (2.0.0):
+    - AFNetworking (>= 2.0.0)
+  - JSQMessagesViewController (7.1.0):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - LMAlertView (1.1.0):
+    - CAAnimationBlocks (~> 0.0.1)
+    - RBBAnimation (~> 0.3.0)
+  - MBProgressHUD (0.9.1)
+  - RBBAnimation (0.3.0)
+  - UIImageView-Letters (1.1.2)
+
+DEPENDENCIES:
+  - AMTagListView
+  - EDStarRating
+  - Firebase (>= 2.3.1)
+  - IOSLinkedInAPI
+  - JSQMessagesViewController
+  - LMAlertView
+  - MBProgressHUD (~> 0.9.1)
+  - UIImageView-Letters
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  AMTagListView: 3f95751a6bae491553800447d4f5deba033ca7da
+  CAAnimationBlocks: 1aaca5fb6447a95d83b20cc786992956ef46e4ee
+  EDStarRating: a41a6440a945020745d0e9ff8ada7d1afa952114
+  Firebase: 462795adf92029ddb97777660627f5dd4fd59876
+  IOSLinkedInAPI: d0adc664472d471b0df9b2aad92a2d82de926c40
+  JSQMessagesViewController: ca11f86fa68ca70835f05e169df9244147c1dc40
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  LMAlertView: fa4589ea2cb540b888636ff6739fc39b16ac1e4b
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  RBBAnimation: cb6cb419f511434ce932f7d0fabf369612fafb4e
+  UIImageView-Letters: c14e01ab0e2e811aee171435b5fdf49b0ee7c970
+
+COCOAPODS: 0.37.1
